@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INDUCTOR-2.2UH
+D Inductors Resist changes in electrical current. Basically a coil of wire. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier - HX711</a></li><li><a href="https://www.sparkfun.com/products/13613">IOIO-OTG - V2.2</a></li><li><a href=""></a></li></ul>
+K PROD_ID:NDUC-11627
+$ENDCMP
+#
+$CMP LTC4041
+D 2.5A Supercapacitor Backup Power Manager
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4041.pdf
+$ENDCMP
+#
+$CMP SuperCapacitor
+D capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TPH1R403NL
+D N-channel MOSFET
+$ENDCMP
+#
+#End Doc Library
