@@ -1,7 +1,7 @@
 <!--
  * @Author: JunQiLiu
  * @Date: 2020-11-16 19:04:18
- * @LastEditTime: 2020-11-26 02:53:42
+ * @LastEditTime: 2020-11-28 10:25:53
  * @Description: 
  * @FilePath: \undefinedc:\Users\JunQiLiu\Documents\SuperCap_UPS\README.md
  * @ 
@@ -13,7 +13,7 @@ UPS solution based on super capacitor
 
 ## Description
 * This is a super capacitor UPS,which really has all the UPS functions include a supercapacitor charger and a boost converter,under normal conditions, the input power supply can directly supply power to the load,and when input power is not available,the super capacitor UPS can provide backup power.
-* This project is currently in testing
+* **This project is currently in testing**
 
 ## Hardware Design
 The core of this board is **LTC4041**,a power management IC.
